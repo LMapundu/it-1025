@@ -11,6 +11,7 @@
 
         System.Console.WriteLine("My name is " & name & surname)
         System.Console.WriteLine("I logged on with Lundi's Accound and made changes")
+        System.Console.WriteLine("I have made other changes to this Project")
         System.Console.ReadLine()
     End Sub
 
